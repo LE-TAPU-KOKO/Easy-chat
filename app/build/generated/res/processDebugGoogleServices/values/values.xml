@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">630465988193</string>
+    <string name="google_api_key" translatable="false">AIzaSyBd3ostlX_W4HI84EkNVOObu9RaaVlMxH0</string>
+    <string name="google_app_id" translatable="false">1:630465988193:android:05815c5d7d60a7ee97cc20</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBd3ostlX_W4HI84EkNVOObu9RaaVlMxH0</string>
+    <string name="google_storage_bucket" translatable="false">easy-chat-backend-90688.firebasestorage.app</string>
+    <string name="project_id" translatable="false">easy-chat-backend-90688</string>
+</resources>

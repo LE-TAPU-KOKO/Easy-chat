@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="chat_color_receiver">#7CB342</color>
+    <color name="chat_color_sender">#1E88E5</color>
+    <color name="dark">#003D82</color>
+    <color name="light">#508DDD</color>
+    <color name="light_gray">#C3C3C3</color>
+    <color name="my_primary">#FF5964</color>
+    <color name="my_secondary">#FFE74C</color>
+    <color name="off_white">#FAFAFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BREEZE</string>
+    <string name="gcm_defaultSenderId" translatable="false">630465988193</string>
+    <string name="google_api_key" translatable="false">AIzaSyBd3ostlX_W4HI84EkNVOObu9RaaVlMxH0</string>
+    <string name="google_app_id" translatable="false">1:630465988193:android:05815c5d7d60a7ee97cc20</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBd3ostlX_W4HI84EkNVOObu9RaaVlMxH0</string>
+    <string name="google_storage_bucket" translatable="false">easy-chat-backend-90688.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_token_fmt"/>
+    <string name="project_id" translatable="false">easy-chat-backend-90688</string>
+    <style name="Theme.EasyChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorSecondaryVariant">@color/my_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/off_white</item>
+    </style>
+</resources>
